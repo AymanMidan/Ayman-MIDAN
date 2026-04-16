@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Midan</h1>
-<h3 align="center">Applied Maths & CS @ ENSIMAG | Grenoble INP 🎓</h3>
-<h4 align="center">Machine Learning & AI Enthusiast | Security-Oriented Mindset 🔐</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Applied%20Maths%20%26%20CS-ENSIMAG%20%7C%20Grenoble%20INP-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning%20%26%20AI-Security%20Focused-orange?style=for-the-badge" />
+</p>
 
 <p align="center">
 🚀 Building intelligent systems with a strong focus on security and real-world impact
@@ -59,19 +64,17 @@
 
 ### 🤝 Connect with Me
 
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/ayman midan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<p>
+<a href="https://linkedin.com/in/ayman midan" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="mailto:aymanmidan2005@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://github.com/AymanMidan" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/AymanMidan" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
