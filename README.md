@@ -35,6 +35,9 @@
 
 ### 🚀 Highlighted Projects
 
+- (Coming) **Computer Vision for autonomous vehicles**  
+  → Obstacles detection and trajectory correction 
+
 - 🔐 **Federated Learning for IoT Networks**  
   → Privacy-preserving distributed learning system for IoT environments  
 
@@ -66,7 +69,7 @@
 ### 🤝 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/ayman-midan" target="_blank">
+<a href="https://linkedin.com/in/ayman-midan" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
@@ -74,7 +77,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://github.com/AymanMidan" target="_blank">
+<a href="https://github.com/AymanMidan" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
@@ -104,10 +107,11 @@
 
 ### 📈 Current Focus
 
-- ✔ Federated Learning  
-- ✔ Adversarial Machine Learning  
-- ✔ Secure AI Systems  
-- ✔ IoT + AI Integration  
+- ✔ Deep Learning 
+- ✔ Federated Learning 
+- ✔ Adversarial Machine Learning
+- ✔ Generative AI  
+- ✔ Secure AI Systems    
 
 ---
 
