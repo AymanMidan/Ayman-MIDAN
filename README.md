@@ -73,27 +73,19 @@
 ### 🚀 Highlighted Projects
 
 
-
 - 🚗👁️ (Coming) **Computer Vision for autonomous vehicles**  
-
   → Obstacles detection and trajectory correction 
 
 
-
 - 🔐 **Federated Learning for IoT Networks**  
-
   → Privacy-preserving distributed learning system for IoT environments  
 
 
-
 - ⚠️ **Adversarial Attacks on AI Models**  
-
   → Studying vulnerabilities and robustness of ML models under attacks  
 
 
-
 - 🌐 **Network & Systems Projects**  
-
   → Practical implementations using Linux, networking, and security tools  
 
 
@@ -216,16 +208,10 @@
 
 ### 📈 Current Focus
 
-
-
 - ✔ Deep Learning 
-
 - ✔ Federated UnLearning 
-
 - ✔ Adversarial Machine Learning
-
 - ✔ Generative AI  
-
 - ✔ Secure AI Systems    
 
 
