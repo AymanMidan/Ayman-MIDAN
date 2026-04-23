@@ -134,7 +134,7 @@
 
 <p>
 
-<a href="[https://linkedin.com/in/ayman-midan](https://www.linkedin.com/in/ayman-m-8386b5227/)" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/ayman-m-8386b5227/" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
